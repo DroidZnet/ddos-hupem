@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/# ! / usr / bin / env perl
 #Codificado Por DroidZnet 11/07/2018
 
 clear
